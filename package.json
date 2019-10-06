@@ -15,5 +15,13 @@
     "express-sanitizer": "^1.0.5",
     "method-override": "^3.0.0",
     "mongoose": "^5.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdvachhani95/blog_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdvachhani95/blog_app/issues"
+  },
+  "homepage": "https://github.com/jdvachhani95/blog_app#readme"
 }
